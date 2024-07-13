@@ -1,0 +1,7 @@
+<suite name="MySuite">
+    <test name="MyTests">
+        <classes>
+            <class name="Swag"/>
+        </classes>
+    </test>
+</suite>
